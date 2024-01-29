@@ -1,0 +1,6 @@
+flask
+os
+linkedin_api
+urllib
+json
+logging
